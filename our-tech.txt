@@ -1,0 +1,55 @@
+[96m
+ ______ _______  _____           _____ _______ 
+|_____/ |______ |_____] |          |      |    
+|    \_ |______ |       |_____ . __|__    |    
+
+      _______ _______ _______ _     _
+         |    |______ |       |_____|
+         |    |______ |_____  |     |
+[95m
+             +---------------+
+             |.-------------.|
+             ||   [91mrepl.it[95m   ||
+             ||             ||
+             ||             ||
+             ||             ||
+             |+-------------+|
+             +-..---------..-+
+             .---------------.
+            / /=============\ \
+           / /===============\ \
+          /_____________________\
+          \_____________________/
+[97m
+We're building a first of its kind developer
+platform that can be used to learn and practice
+programming, build and deploy applications, and
+share and discuss with a community of peers. We
+realize this is an ambitious plan, but we think it's
+high time someone built this. There is no good
+reason for the insane fragmentation in programming
+tools today -- someone learning to code needs to
+pick up at least ten disjointed tools and platforms
+to do anything interesting with programming.
+
+We spend most of our time between two core areas of
+our technology -- the IDE and the container
+infrastructure. We built the world's fastest and
+first server-rendered IDE. The IDE has a small
+functional core -- borrowing ideas from Redux --
+everything is a plugin. This architecture allows us
+to build an adaptable IDE where it starts very
+simple and grows with the user as they learn more
+and require more horsepower -- this is crucial for
+newcomers.
+
+As for our infrastructure, we're building a new kind
+of computing platform: it's Serverless in that users
+don't have to care about the underlying resources,
+but it's not Serverless in that it's stateful. This
+way it's interactive, and since we're focused on
+newcomers, it's a much more natural programming
+model. We're also building a filesystem abstraction
+that allows your working directory to travel with
+your container between development and production
+and as it goes offline and online.

@@ -1,0 +1,28 @@
+[92m
+e   e  e e   e eeeee eeeee   e   e  e eeee 
+8   8  8 8   8 8 👀 8   8     8   8  8 8    
+8e  8  8 8eee8 8eee8   8e    8e  8  8 8eee 
+88  8  8 88  8 88  8   88    88  8  8 88   
+88ee8ee8 88  8 88  8   88    88ee8ee8 88ee 
+
+[91me     eeeee eeeee e   e[92m    eeee eeeee eeeee  
+[91m8     8  88 8  88 8   8[92m    8    8  88 8 👀 8  
+[91m8e    8 👀 8 8 👀 8 8eee8e[92m   8eee 8   8 8eee8e 
+[91m88    8   8 8   8 88   8[92m   88   8 👀 8 88   8 
+[91m88eee 8eee8 8eee8 88   8[92m   88   8eee8 88   8 [97m
+
+What do we look for in engineers?
+
+We look for engineers that build their own tools,
+have some experience in open-source software, and
+care about developer tools or programming education.
+
+We believe that at this moment in the history of
+computing, a small team of programmers can build
+world-changing platforms, tools, and products.
+That's why we look for engineers that are
+self-directed, understand what we're creating at a
+visceral level, and are excited by our vision of the
+future. We look for people that are not only excited
+to deploy their skills at work but also their ideas,
+dreams, and ambitions.

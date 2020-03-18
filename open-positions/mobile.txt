@@ -1,0 +1,34 @@
+
+Note that the listed roles are merely approximations. If
+you're a talented hacker but don't really fit the
+requirements then get in touch anyways.
+
+============================================
+Position: Mobile Engineer
+============================================
+
+Roles & Responsibilities
+------------------------
+* Build an interactive development environment on mobile
+* Research & develop new ways of coding on mobile
+* Design & implement a mobile app development environment
+
+Key Qualifications
+------------------
+* Built and shipped apps before
+* Experience using a cross-platform development frameworks (Flutter, React Native, etc)
+* Experience building a developer tool (it can be personal)
+* Self-directed and comfortable working autonomously
+* An eye for design, look and feel
+* Appreciation for simplicity and pragmatism
+
+Bonus Points
+------------
+* Expert Flutter or React Native developer
+* Experimented with mobile coding before
+
+Job Location:
+-------------
+SF (onsite preferred)
+Remote
+

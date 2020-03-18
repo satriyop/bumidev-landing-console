@@ -1,0 +1,34 @@
+
+Note that the listed roles are merely approximations. If
+you're a talented hacker but don't really fit the
+requirements then get in touch anyways.
+
+============================================
+Position: Frontend Engineer
+============================================
+
+Roles & Responsibilities
+------------------------
+* Build an interactive development environment
+* Build a fast and easy-to-use IDE
+* Design and implement IDE plugin system
+
+Key Qualifications
+------------------
+* Expert-level knowledge in JavaScript and Web technologies
+* Experience building a developer tool (it can be personal dev)
+* Experience with performance optimizations
+* Self-directed and comfortable working autonomously
+* Ability to debug problems in production systems, i.e. comfortable reading logs
+
+Bonus Points
+------------
+* Expert React.js programmer
+* Appreciation for simplicity and pragmatism
+* Contributed to relevant open-source projects: VSCode/Monaco, Xterm.js, etc.
+
+Job Location:
+-------------
+SF (onsite preferred)
+Remote
+

@@ -1,0 +1,60 @@
+
+What if you could influence how an entire generation of programmers code?
+Despite incremental improvements, programming today has functioned the same way
+for almost 50 years. We're looking for contrarian designer-coders to shake up
+our stagnant industry. As the designer of our IDE, you'll have a chance to
+rethink how millions of coders think about and interact with programming
+environments.
+
+
+===============================================
+Position: Coding Interface Designer [Onsite SF]
+===============================================
+
+In this role, you will:
+
+* Create a learnable programming environment: In programming, there typically
+  exists an inverse relationship between power and usability. We believe we can
+  break the mold of overwhelming cognitive load in coding tools by making
+  something that's both approachable and powerful.
+
+* Engage in participatory vision-driven design: We live and breathe our
+  community who we engage early on in our design process. However, we're
+  unrelenting in pursuing our vision, and we don't shy away from original
+  thinking.
+
+* Find your passion: We grew to over a million users with just a 5-person
+  team. We're here to do our best work and hold ourselves and coworkers to a
+  high standard. We also care about working on something fun and engaging, so we
+  automate/outsource away any drudgery.
+
+* Work with an elite team of engineers: To reach the scale of one of the largest
+  open computing platforms in the world, we had to build a resilient and
+  scalable infrastructure. We battled dark web hackers, crypto miners, and
+  script kiddies. We iterated on many different versions and evolved our system
+  aggressively despite our growing user base. 
+
+* Build design systems: Because IDEs are some of the more complicated pieces of
+  software, we have to create scalable UI/UX solutions. You'll be responsible
+  for creating frameworks and systems that are adaptable and reusable.
+
+
+You qualify if:
+
+* You are a designer-coder: Not only have you mastered a design tool where you
+  can create pixel-perfect UI, but you also know how to write production-quality
+  frontend code. 
+
+* You are a generalist: We don't expect you to have experience in every aspect
+  of design, but we hope you to be a hacker. Someone who can learn enough to
+  solve any challenge thrown their way.
+
+* You build tools: Toolmakers know how things can be more efficient, fun, and
+  generally better because they look at workflows with a critical eye. You'll be
+  a good fit if you like making tools.
+
+* You are resourceful: We're a lean, efficient startup where you won't find
+  heavy-handed management. You need to be able to come up with your own goals
+  and know how to balance velocity and quality. 
+
+* [Bonus] You've worked or thought about devtools in the past.

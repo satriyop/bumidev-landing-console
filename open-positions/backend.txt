@@ -1,0 +1,37 @@
+
+Note that the listed roles are merely approximations. If
+you're a talented hacker but don't really fit the
+requirements then get in touch anyways.
+
+========================================
+Position: Backend/Infrastructure Engineer
+========================================
+
+Roles & Responsibilities
+------------------------
+* Build an interactive programming environment backend
+* Build a container orchestration solution for live-deployment
+* Design and implement cloud development APIs
+* Deploy and operate server clusters (DevOps)
+
+Key Qualifications
+------------------
+* Expert-level knowledge in one of systems programming languages: Go, Rust, C++, etc.
+* Understanding of routing, Linux network stack, proxies, load-balancers, etc.
+* Experience working with containers and understanding of server virtualization
+* Experience deploying maintaining large systems
+* Experience in API and RPC design
+* Self-directed and comfortable working autonomously
+* Ability to debug problems in production systems, i.e. comfortable reading logs
+
+Bonus Points
+------------
+* Expert Golang programmer
+* Appreciation for simplicity and pragmatism
+* Experience building Platform/Infrastructure/Runtime as a Service
+* Contributed to relevant open-source projects: Linux kernel, container solution, etc.
+
+Job Location
+------------
+SF (onsite preferred)
+Remote

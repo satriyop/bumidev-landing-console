@@ -1,0 +1,39 @@
+
+[38;5;55m    :::       ::: :::    :::  ::::::::       :::       ::: :::::::::: 
+[38;5;56m   :+:       :+: :+:    :+: :+:    :+:      :+:       :+: :+:         
+[38;5;57m  +:+       +:+ +:+    +:+ +:+    +:+      +:+       +:+ +:+          
+[38;5;58m +#+  +:+  +#+ +#++:++#++ +#+    +:+      +#+  +:+  +#+ +#++:++#      
+[38;5;59m+#+ +#+#+ +#+ +#+    +#+ +#+    +#+      +#+ +#+#+ +#+ +#+            
+[38;5;60m#+#+# #+#+#  #+#    #+# #+#    #+#       #+#+# #+#+#  #+#             
+[38;5;61m###   ###   ###    ###  ########          ###   ###   ##########    
+[38;5;62m
+[38;5;63m                    :::       :::::::::  ::::::::::
+[38;5;64m                  :+: :+:    :+:    :+: :+:
+[38;5;65m                 +:+   +:+  +:+    +:+ +:+
+[38;5;66m                +#++:++#++: +#++:++#:  +#++:++#
+[38;5;67m               +#+     +#+ +#+    +#+ +#+ 
+[38;5;68m              #+#     #+# #+#    #+# #+# 
+[38;5;69m             ###     ### ###    ### ##########
+[97m
+Our vision is to create a programming environment that blurs
+the distinction between learning and building. A development
+experience where the tedious setup and maintenance of the
+environment is taken away and what's left is the programmer and
+their creativity. This programming experience would be powered
+by what we're calling a Holistic Development Service: an
+always-on service that understands your code in all its stages,
+A service that can be accessed anywhere you are regardless of
+your device, platform, or programming language.
+
+We are a small team with a passion for making programming
+learnable, accessible, and usable. Amjad and Haya started
+working on the idea that would become Repl.it back in 2011 and
+by open-sourcing the underlining technology they helped launch
+the learn-to-code movement. Amjad then joined Codecademy as a
+founding engineer to make it easy for people to learn coding
+online. Afterward, Amjad joined Facebook where he worked on
+React Native and brought the same philosophy of fast iteration
+and feedback loops (REPL) to mobile development.
+
+
+Meet our team on the about page: https://repl.it/site/about

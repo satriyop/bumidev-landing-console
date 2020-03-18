@@ -1,0 +1,31 @@
+[38;2;105;125;133m
+                .:+yysoo/:.             
+        -+yddddddhyssyydddds/.         
+      .+hdddddddddddddddyysddddy/`      
+    `oddddddddddddddddddddh/yddddh/     
+  -dddddhs+::...-//oydddddd+odddddy.   
+  :dddho//osyhddyo+::-`:odddd-sdddddh-  
+-ddd++ydddddo:`         .odds.ddddddd  
+`hdh+hdddddo.   [38;2;78;80;80m-+shhs+-[38;2;105;125;133m   -hd.hdddddd  
+:dy+dddddd/    [38;2;78;80;80msdddddddds`[38;2;105;125;133m  -d.ddddddd  
+od/dddddd/o   [38;2;78;80;80m/dddddddddd+[38;2;105;125;133m   o:ddddddy:.
+o:ydddddo.s   [38;2;78;80;80m/dddddddddd+[38;2;105;125;133m   :ydddddd/d.
+..dddddd:/d.   [38;2;78;80;80msdddddddds`[38;2;105;125;133m  `ydddddd+hd.
+/dddddd:.dh.   [38;2;78;80;80m-+oyho+-[38;2;105;125;133m   :yddddds/hds 
+-dddddd:`hddo`         `:yddddh+/oddd` 
+  +dddddh`/ddddo-` -::+yyyyo+:.-odddh-  
+  :hddddy`oddddddyo//-...::+shddddy.   
+    `sddddh::hdddddddddddddddddddh/     
+      .+hdddy+/sdddddddddddddddy/`      
+        -+ydddy+o+oyydddddds/.         
+            `-/+ooys+-    `             
+[97m
+
+
+Note that the listed roles are merely approximations. If
+you're a talented hacker but don't really fit the
+requirements then get in touch anyways.
+
+Email us at jobs@repl.it with a bit about
+your past work, and what you're currently interested in
+working on.
